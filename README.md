@@ -1,5 +1,3 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
-
 # Hello World!, I'm Ege 👋🏼:
 🔭 I’m currently working on **x42**<br>🌱 I’m currently learning **Rust**<br>👨🏼‍💻 working as a web developer since 2022 <br>📫 How to reach me **egeshade@gmail.com**</i>
 
